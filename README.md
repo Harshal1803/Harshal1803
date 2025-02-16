@@ -37,8 +37,7 @@
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=Harshal1803&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=160 align="center" src="https://g![200w](https://github.com/user-attachments/assets/9cc90e71-3905-4214-880c-dafd0c9773d1)
-ithub-readme-stats.vercel.app/api/top-langs/?username=Harshal1803&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshal1803&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" />
 </a>
 </h1>
 
