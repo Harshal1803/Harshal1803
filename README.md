@@ -36,10 +36,17 @@
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=Harshal1803&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshal1803&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" />
+  <img height=160 align="center" src="https://g![200w](https://github.com/user-attachments/assets/9cc90e71-3905-4214-880c-dafd0c9773d1)
+ithub-readme-stats.vercel.app/api/top-langs/?username=Harshal1803&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" />
 </a>
 </h1>
-![](https://github.com/profile/tenor.com/bJteDUO14wC.gif)
+
+<h1 align =center>
+  BYEEE
+<img src="https://github.com/user-attachments/assets/7be1db16-2f0d-4dc2-9040-462ad154838a" width="150" height ="150">
+<img src="https://github.com/user-attachments/assets/80e36937-0ed7-45ab-a30c-f8898b4782fc" width ="150" height ="150"> 
+  EEEE
+</h1>
 
 
 
@@ -47,4 +54,4 @@
 
 
 
-<img src="https://private-user-images.githubusercontent.com/74038190/325895973-e4f28204-ea88-4364-a321-8330c3fbde6a.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQ2MjE0OTMsIm5iZiI6MTczNDYyMTE5MywicGF0aCI6Ii83NDAzODE5MC8zMjU4OTU5NzMtZTRmMjgyMDQtZWE4OC00MzY0LWEzMjEtODMzMGMzZmJkZTZhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjE5VDE1MTMxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVlZTE4OGI2ZjRhN2ZhMzU1ZjEzZWQ5ZTE5NDA1NGI4ODMxMDY5ZDRlNjViMzQyZTM5YjhhZmQ5Y2MzNTE1NzImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.U4N176bKX_mTQPMmNn9Qak0pVM5IFcYEV4ZbnpqsWJA" height="25px" width="25px"/>
+
