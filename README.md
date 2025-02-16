@@ -9,17 +9,18 @@
   
 🐾 Debugging servers by day, feeding street cats by night, sometimes debugging  <b> LIFE </b>   T_T . I love automating the boring stuff, optimizing infrastructure, and occasionally getting lost in solving mysterious problems (some call it coding, I call it an adventure). 😼☁️
   
-  My expertise includes <b>devops</b>, <b>AWS</b>
+  My expertise includes <b>devops</b>, <b>AWS</b>, <b>Python</b>
 </p>
 
 - 📫 How to reach me: 
   -Send an email to harshalverma.1801@gmail.com
 
 
-## 🛠️ Technologies & Tools
+## 🛠️ TechStack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,c,cpp,html,css,aws,docker,bash,mysql,git,linux,jenkins,terraform&theme=dark" alt="Skills"><br>
+  <img src="https://skillicons.dev/icons?i=python,go,c,cpp,html,css,opencv,figma&theme=dark" alt="Skills"><br>
+  <img src="https://skillicons.dev/icons?i=aws,docker,bash,kubernetes,mysql,git,linux,jenkins,terraform&theme=dark" alt="Skills"><br>
   
 </div>
 
@@ -45,8 +46,13 @@ ithub-readme-stats.vercel.app/api/top-langs/?username=Harshal1803&theme=midnight
   BYEEE
 <img src="https://github.com/user-attachments/assets/7be1db16-2f0d-4dc2-9040-462ad154838a" width="150" height ="150">
 <img src="https://github.com/user-attachments/assets/80e36937-0ed7-45ab-a30c-f8898b4782fc" width ="150" height ="150"> 
-  EEEE
-</h1>
+  EEEE 
+<div align="center"> 
+  
+  ![snake gif](https://github.com/Harshal1803/Harshal1803/blob/output/github-snake-dark.svg)
+</div>
+  
+
 
 
 
