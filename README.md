@@ -5,12 +5,13 @@
 
 
 
-🚀 DevOps | AWS | Automation Enthusiast 🛠️
-  
-🐾 Debugging servers by day, feeding street cats by night, sometimes debugging  <b> LIFE </b>   T_T . I love automating the boring stuff, optimizing infrastructure, and occasionally getting lost in solving mysterious problems (some call it coding, I call it an adventure). 😼☁️
-  
-  My expertise includes <b>devops</b>, <b>AWS</b>, <b>Python</b>
-</p>
+I work with DevOps, AWS, and automation. I like building things that actually run in production and fixing them when they break.
+I’ve worked on servers, cloud setups, backend stuff, and random side projects that started as “just trying something out.”
+
+I’m not big on DSA, but I enjoy real-world problem solving, debugging, and making systems work better than before.
+Also, cats are loveeeeeeee 🐱 and I break things just enough to learn how they work.
+
+**_DevOps | Website | App | Server Management | Extensions | Cloud | anything but not ML models ;(_**
 
 - 📫 How to reach me: 
   -Send an email to harshalverma.1801@gmail.com
