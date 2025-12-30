@@ -20,8 +20,8 @@ Also, cats are loveeeeeeee 🐱 and I break things just enough to learn how they
 ## 🛠️ TechStack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,c,cpp,html,css,opencv,figma&theme=dark" alt="Skills"><br>
-  <img src="https://skillicons.dev/icons?i=aws,docker,bash,kubernetes,mysql,git,linux,jenkins,terraform&theme=dark" alt="Skills"><br>
+  <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,opencv,bash,figma&theme=dark" alt="Skills"><br>
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,mysql,mongodb,git,linux,terraform,prometheus,grafana&theme=dark" alt="Skills"><br>
   
 </div>
 
