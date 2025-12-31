@@ -1,15 +1,11 @@
 <!-- Animated Header -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Workbench&size=25&letterSpacing=0.3rem&duration=4000&pause=500&center=true&vCenter=true&width=700&lines=Hi+There+%F0%9F%91%8B;I'm+Harshal;Computer+Science+undergrad+at+BIT+MESRA" alt="Typing SVG" />
-</h1
+
+  🐱🐱🐱🐱🐱🐱
+</h1>
 
 
-
-I work with DevOps, AWS, and automation. I like building things that actually run in production and fixing them when they break.
-I’ve worked on servers, cloud setups, backend stuff, and random side projects that started as “just trying something out.”
-
-I’m not big on DSA, but I enjoy real-world problem solving, debugging, and making systems work better than before.
-Also, cats are loveeeeeeee 🐱 and I break things just enough to learn how they work.
 
 **_DevOps | Website | App | Server Management | Extensions | Cloud | anything but not ML models ;(_**
 
